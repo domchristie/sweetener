@@ -1,0 +1,15 @@
+{
+  "name": "sweetener",
+  "version": "1.0.0",
+  "description": "Add getters and setters to a function to connect it with an object",
+  "main": "sweetener.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "author": "Dom Christie",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^8.4.0",
+    "tape": "^4.6.2"
+  }
+}
