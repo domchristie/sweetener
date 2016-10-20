@@ -1,7 +1,7 @@
 /*
  * Sweetener
  * Copyright © 2016+ Dom Christie
- * Released under the ISC license
+ * Released under the MIT license
  */
 
 /* global define */
