@@ -107,4 +107,4 @@ chart() // render chart with a width: 4 and height: 3
 
 ## License
 
-Sweetener is copyright © 2016+ Dom Christie and released under the ISC license.
+Sweetener is copyright © 2016+ Dom Christie and released under the MIT license.
