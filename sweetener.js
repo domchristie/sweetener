@@ -10,8 +10,8 @@
   typeof exports === 'object' && typeof module !== 'undefined'
     ? module.exports = factory()
     : typeof define === 'function' && define.amd
-      ? define(factory)
-      : (global.sweetener = factory())
+        ? define(factory)
+        : global.sweetener = factory()
 }(this, function () {
   'use strict'
 
@@ -28,4 +28,3 @@
     }
   }
 }))
-
